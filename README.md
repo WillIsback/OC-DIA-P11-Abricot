@@ -1,6 +1,6 @@
 # Abricot.co - SaaS de Gestion de Projet IA
 
-[![Documentation](https://img.shields.io/badge/Documentation-TypeDoc-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://willisback.github.io/P11-Abricot/)
+[![Documentation](https://img.shields.io/badge/Documentation-TypeDoc-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://willisback.github.io/OC-DIA-P11-Abricot/)
 
 **Projet 11 - Formation Développeur FullStack IA - OpenClassroom**  
 Développé par : Derue William
@@ -54,11 +54,11 @@ Abricot.co est une plateforme SaaS innovante de gestion de projet collaboratif a
 
 ## Installation et Démarrage
 
-Le project fonctionne avec un [fork](https://github.com/WillIsback/dev-react-P11.git) du backend original qui a été largement modifié. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillIsback/dev-react-P11.git)
+Le project fonctionne avec un [fork](https://github.com/WillIsback/OC-DIA-P11-Abricot-Backend.git) du backend original qui a été largement modifié. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillIsback/OC-DIA-P11-Abricot-Backend.git)
 
 ### Prérequis
 
-- backend `git clone https://github.com/WillIsback/dev-react-P11.git`
+- backend `git clone https://github.com/WillIsback/OC-DIA-P11-Abricot-Backend.git`
 - Node.js 18+
 - pnpm
 
